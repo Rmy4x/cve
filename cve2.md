@@ -134,7 +134,7 @@ emailid=john@test.com
 python sqlmap.py -r 1.txt -p emailid -dbms=mysql -dbs
 ```
 
-![image-20250606180708212](C:\Users\Rmyxx\AppData\Roaming\Typora\typora-user-images\image-20250606180708212.png)
+![image-20250606180708212](image-20250606180708212.png)            
 
 
 
